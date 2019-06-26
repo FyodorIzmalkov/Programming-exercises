@@ -1,3 +1,5 @@
+package DifficultyBelow700;
+
 import java.util.Scanner;
 
 public class WayToZero {

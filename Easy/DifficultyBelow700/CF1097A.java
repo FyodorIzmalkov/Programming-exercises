@@ -1,22 +1,20 @@
-package Codeforces;
+package DifficultyBelow700;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class A1030 {
+public class CF1097A {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int num = Integer.parseInt(br.readLine());
+        String str = br.readLine();
         String[] arr = br.readLine().split(" ");
-        for (String str: arr){
-//            if (Integer.parseInt(str) == 1) {
-            if (str.equals("1")){
-                System.out.println("HARD");
-                System.exit(0);
+        for (String s: arr){
+            if (str.charAt(0) == s.charAt(0) || str.charAt(1) == s.charAt(1)){
+                System.out.println("YES");
+                return;
             }
         }
-        System.out.println("EASY");
-
+        System.out.println("NO");
     }
 }

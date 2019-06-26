@@ -1,4 +1,4 @@
-package Codeforces;
+package DifficultyBelow700;
 
 import java.io.*;
 import java.util.StringTokenizer;

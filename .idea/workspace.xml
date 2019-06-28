@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf344A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Difficulty700/Cf344A.java" afterDir="false" />
-    </list>
+    <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +26,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf677A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+            <state relative-caret-position="484">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf200B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,18 +79,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="484">
               <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf136A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,6 +148,7 @@
         <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf734A.java" />
         <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf344A.java" />
         <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf677A.java" />
+        <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf200B.java" />
       </list>
     </option>
   </component>
@@ -210,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cf677A">
+  <component name="RunManager" selected="Application.Cf200B">
     <configuration name="Cf136A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf136A" />
       <module name="Codeforces" />
@@ -224,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cf344A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf344A" />
+    <configuration name="Cf200B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf200B" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -237,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cf617A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf617A" />
+    <configuration name="Cf344A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf344A" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -278,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cf200B" />
         <item itemvalue="Application.Cf677A" />
         <item itemvalue="Application.Cf344A" />
         <item itemvalue="Application.Cf734A" />
         <item itemvalue="Application.Cf136A" />
-        <item itemvalue="Application.Cf617A" />
       </list>
     </recent_temporary>
   </component>
@@ -301,16 +300,15 @@
       <workItem from="1561624183043" duration="300000" />
       <workItem from="1561634146582" duration="1221000" />
       <workItem from="1561707250405" duration="29000" />
-      <workItem from="1561716641661" duration="2216000" />
+      <workItem from="1561716641661" duration="2746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11124000" />
+    <option name="totallyTimeSpent" value="11654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25953895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -495,8 +493,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf677A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf200B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

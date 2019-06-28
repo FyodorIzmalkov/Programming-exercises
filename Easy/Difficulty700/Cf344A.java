@@ -9,13 +9,15 @@ public class Cf344A {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(br.readLine());
-        int result = 1;
+        int result = 0;
         int currentNum;
         int previousNum = 0;
         while(n > 0){
             currentNum = Integer.parseInt(br.readLine());
+            result += currentNum != previousNum ? 1 : 0;
             previousNum = currentNum;
             --n;
         }
+        System.out.println(result);
     }
 }

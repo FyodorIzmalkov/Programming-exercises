@@ -17,18 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/CF1095A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf1006A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -76,11 +64,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf1005A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="525">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf1092B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf835A.java" />
         <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf978B.java" />
         <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf1005A.java" />
+        <option value="$PROJECT_DIR$/Easy/Difficulty700/Cf1092B.java" />
       </list>
     </option>
   </component>
@@ -234,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cf1005A">
+  <component name="RunManager" selected="Application.Cf1092B">
     <configuration name="Cf1003A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf1003A" />
       <module name="Codeforces" />
@@ -261,8 +262,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cf1006A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf1006A" />
+    <configuration name="Cf1092B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Difficulty700.Cf1092B" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -302,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cf1092B" />
         <item itemvalue="Application.Cf1005A" />
         <item itemvalue="Application.Cf978B" />
         <item itemvalue="Application.Cf835A" />
         <item itemvalue="Application.Cf1003A" />
-        <item itemvalue="Application.Cf1006A" />
       </list>
     </recent_temporary>
   </component>
@@ -331,15 +332,16 @@
       <workItem from="1563222309954" duration="2213000" />
       <workItem from="1563393189857" duration="2539000" />
       <workItem from="1563469003715" duration="1585000" />
-      <workItem from="1563910192817" duration="479000" />
+      <workItem from="1563910192817" duration="1507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30453000" />
+    <option name="totallyTimeSpent" value="31481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1024" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23705502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -697,8 +699,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf1005A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="525">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf1092B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,27 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/numJewelsInStones.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/rangeSumBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/toLowerCase.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,14 +65,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/hackerrank/Quartiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+            <state relative-caret-position="242">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/hackerrank/Interquartile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="48" column="45" lean-forward="true" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="601" column="8" selection-start-line="601" selection-start-column="8" selection-end-line="601" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -185,6 +183,8 @@
         <option value="$PROJECT_DIR$/Easy/LeetCodeEz/flipAndInvertImage.java" />
         <option value="$PROJECT_DIR$/Easy/LeetCodeEz/sortArrayByParity.java" />
         <option value="$PROJECT_DIR$/Easy/LeetCodeEz/test.java" />
+        <option value="$PROJECT_DIR$/Easy/hackerrank/Quartiles.java" />
+        <option value="$PROJECT_DIR$/Easy/hackerrank/Interquartile.java" />
       </list>
     </option>
   </component>
@@ -215,6 +215,12 @@
               <item name="Codeforces" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codeforces" type="462c0819:PsiDirectoryNode" />
               <item name="Easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codeforces" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codeforces" type="b2602c69:ProjectViewProjectNode" />
@@ -255,13 +261,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeEz.TwoSum" />
+  <component name="RunManager" selected="Application.Interquartile">
+    <configuration name="Interquartile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Interquartile" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeEz.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interquartile" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.flipAndInvertImage" />
         <item itemvalue="Application.uniqueMorseRepresentations" />
         <item itemvalue="Application.defangIPaddr" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -360,12 +366,12 @@
       <workItem from="1569304298591" duration="909000" />
       <workItem from="1569356588201" duration="986000" />
       <workItem from="1569523096660" duration="3586000" />
-      <workItem from="1573497608573" duration="4827000" />
+      <workItem from="1573497608573" duration="7013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60858000" />
+    <option name="totallyTimeSpent" value="63044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1024" extended-state="6" />
@@ -380,8 +386,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967836" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3182773" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.27941176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3182773" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27941176" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -421,45 +427,15 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Easy/LeetCodeEz/test.java</url>
-          <line>39</line>
+          <url>file://$PROJECT_DIR$/Easy/hackerrank/Interquartile.java</url>
+          <line>48</line>
           <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf263A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="19" column="26" selection-start-line="14" selection-start-column="12" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf677A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf200B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf617A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -864,6 +840,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="48" column="1" lean-forward="true" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/sortArrayByParity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -874,10 +860,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/test.java">
+    <entry file="file://$PROJECT_DIR$/Easy/hackerrank/Quartiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        <state relative-caret-position="242">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="601" column="8" selection-start-line="601" selection-start-column="8" selection-end-line="601" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/hackerrank/Interquartile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="48" column="45" lean-forward="true" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

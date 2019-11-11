@@ -17,19 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/defangIPaddr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/numJewelsInStones.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
@@ -71,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/uniqueMorseRepresentations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="352">
               <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/sortArrayByParity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
               <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,6 +184,7 @@
         <option value="$PROJECT_DIR$/Easy/LeetCodeEz/uniqueMorseRepresentations.java" />
         <option value="$PROJECT_DIR$/Easy/LeetCodeEz/flipAndInvertImage.java" />
         <option value="$PROJECT_DIR$/Easy/LeetCodeEz/sortArrayByParity.java" />
+        <option value="$PROJECT_DIR$/Easy/LeetCodeEz/test.java" />
       </list>
     </option>
   </component>
@@ -255,20 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.flipAndInvertImage">
-    <configuration name="Cf1220A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DifficultyBelow700.Cf1220A" />
-      <module name="Codeforces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DifficultyBelow700.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeEz.TwoSum" />
       <module name="Codeforces" />
@@ -308,6 +295,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeEz.test" />
+      <module name="Codeforces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeEz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="uniqueMorseRepresentations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeEz.uniqueMorseRepresentations" />
       <module name="Codeforces" />
@@ -323,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.flipAndInvertImage" />
         <item itemvalue="Application.uniqueMorseRepresentations" />
         <item itemvalue="Application.defangIPaddr" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.Cf1220A" />
       </list>
     </recent_temporary>
   </component>
@@ -359,18 +359,19 @@
       <workItem from="1569261195766" duration="7641000" />
       <workItem from="1569304298591" duration="909000" />
       <workItem from="1569356588201" duration="986000" />
-      <workItem from="1569523096660" duration="3435000" />
+      <workItem from="1569523096660" duration="3586000" />
+      <workItem from="1573497608573" duration="4827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55880000" />
+    <option name="totallyTimeSpent" value="60858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1024" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14644013" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14886731" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -379,8 +380,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967836" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3182773" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27941176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3182773" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.27941176" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -419,17 +420,16 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Easy/LeetCodeEz/test.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/DifficultyBelow700/CF935A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/Difficulty700/Cf263A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -830,6 +830,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/uniqueMorseRepresentations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/flipAndInvertImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/DifficultyBelow700/Cf1220A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
@@ -847,27 +864,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/uniqueMorseRepresentations.java">
+    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/sortArrayByParity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/flipAndInvertImage.java">
+    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/LeetCodeEz/sortArrayByParity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="491">
+          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

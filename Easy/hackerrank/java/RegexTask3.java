@@ -6,7 +6,7 @@ class UsernameValidator {
     /*
      * Write regular expression here.
      */
-    public static final String regularExpression = "//";
+    public static final String regularExpression = "^[a-z[A-Z]]{1}[\\w_]{7,29}$";
 }
 
 public class RegexTask3 {

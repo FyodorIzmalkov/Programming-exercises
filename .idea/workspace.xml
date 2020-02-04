@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/BigDecimal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/hackerrank/java/BigDecimal1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.BigDecimal1">
+  <component name="RunManager" selected="Application.PrimalityTest">
     <configuration name="BigDecimal1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.java.BigDecimal1" />
       <module name="Codeforces" />
@@ -74,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.java.StringTask2" />
+    <configuration name="PrimalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.java.PrimalityTest" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimalityTest" />
         <item itemvalue="Application.BigDecimal1" />
         <item itemvalue="Application.ParserTask1" />
         <item itemvalue="Application.StringTask6" />
         <item itemvalue="Application.StringTask3" />
-        <item itemvalue="Application.StringTask2" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +172,7 @@
       <workItem from="1580327477887" duration="629000" />
       <workItem from="1580328593427" duration="4012000" />
       <workItem from="1580410150407" duration="7814000" />
+      <workItem from="1580840722949" duration="3681000" />
     </task>
     <servers />
   </component>
@@ -182,22 +184,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="445" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1580412021736" />
-    <state width="1237" height="262" key="GridCell.Tab.0.bottom" timestamp="1580764658096">
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom" timestamp="1580848979598">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1580764658096" />
-    <state width="1237" height="262" key="GridCell.Tab.0.center" timestamp="1580764658095">
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1580848979598" />
+    <state width="1237" height="262" key="GridCell.Tab.0.center" timestamp="1580848979598">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1580764658095" />
-    <state width="1237" height="262" key="GridCell.Tab.0.left" timestamp="1580764658095">
+    <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1580848979598" />
+    <state width="1237" height="262" key="GridCell.Tab.0.left" timestamp="1580848979597">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1580764658095" />
-    <state width="1237" height="262" key="GridCell.Tab.0.right" timestamp="1580764658096">
+    <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1580848979597" />
+    <state width="1237" height="262" key="GridCell.Tab.0.right" timestamp="1580848979598">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1580764658096" />
+    <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1580848979598" />
     <state width="1237" height="219" key="GridCell.Tab.1.bottom" timestamp="1580333013562">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -214,10 +216,14 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1237" height="219" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1580333013562" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580410156985">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580846437540">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1580410156985" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1580846437540" />
+    <state x="296" y="226" key="run.anything.popup" timestamp="1580846840155">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1580846840155" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

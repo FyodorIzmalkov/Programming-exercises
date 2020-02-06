@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Array3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/hackerrank/java/Array3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.ArrayList1">
+  <component name="RunManager" selected="Application.Stack1">
     <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.java.ArrayList1" />
       <module name="Codeforces" />
@@ -74,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParserTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.java.ParserTask1" />
+    <configuration name="List1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.java.List1" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.java.StringTask6" />
+    <configuration name="Stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.java.Stack1" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stack1" />
+        <item itemvalue="Application.List1" />
         <item itemvalue="Application.ArrayList1" />
         <item itemvalue="Application.PrimalityTest" />
         <item itemvalue="Application.BigDecimal1" />
-        <item itemvalue="Application.ParserTask1" />
-        <item itemvalue="Application.StringTask6" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,8 @@
       <workItem from="1580328593427" duration="4012000" />
       <workItem from="1580410150407" duration="7814000" />
       <workItem from="1580840722949" duration="5215000" />
-      <workItem from="1580932427093" duration="3415000" />
+      <workItem from="1580932427093" duration="4152000" />
+      <workItem from="1581016310476" duration="6079000" />
     </task>
     <servers />
   </component>
@@ -184,42 +186,42 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="445" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1580412021736" />
-    <state width="1237" height="325" key="GridCell.Tab.0.bottom" timestamp="1580934330589">
+    <state width="1237" height="231" key="GridCell.Tab.0.bottom" timestamp="1581022557422">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1580934330589" />
-    <state width="1237" height="325" key="GridCell.Tab.0.center" timestamp="1580934330588">
+    <state width="1237" height="231" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1581022557422" />
+    <state width="1237" height="231" key="GridCell.Tab.0.center" timestamp="1581022557422">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1580934330588" />
-    <state width="1237" height="325" key="GridCell.Tab.0.left" timestamp="1580934330588">
+    <state width="1237" height="231" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1581022557422" />
+    <state width="1237" height="231" key="GridCell.Tab.0.left" timestamp="1581022557422">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1580934330588" />
-    <state width="1237" height="325" key="GridCell.Tab.0.right" timestamp="1580934330589">
+    <state width="1237" height="231" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1581022557422" />
+    <state width="1237" height="231" key="GridCell.Tab.0.right" timestamp="1581022557422">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1580934330589" />
-    <state width="1237" height="325" key="GridCell.Tab.1.bottom" timestamp="1580934337786">
+    <state width="1237" height="231" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1581022557422" />
+    <state width="1237" height="231" key="GridCell.Tab.1.bottom" timestamp="1581022557263">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1580934337786" />
-    <state width="1237" height="325" key="GridCell.Tab.1.center" timestamp="1580934337786">
+    <state width="1237" height="231" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1581022557263" />
+    <state width="1237" height="231" key="GridCell.Tab.1.center" timestamp="1581022557263">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1580934337786" />
-    <state width="1237" height="325" key="GridCell.Tab.1.left" timestamp="1580934337786">
+    <state width="1237" height="231" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1581022557263" />
+    <state width="1237" height="231" key="GridCell.Tab.1.left" timestamp="1581022557263">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1580934337786" />
-    <state width="1237" height="325" key="GridCell.Tab.1.right" timestamp="1580934337786">
+    <state width="1237" height="231" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1581022557263" />
+    <state width="1237" height="231" key="GridCell.Tab.1.right" timestamp="1581022557263">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1580934337786" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580932430666">
+    <state width="1237" height="231" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1581022557263" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581016851033">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1580932430666" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1581016851033" />
     <state x="296" y="226" key="run.anything.popup" timestamp="1580846840155">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -256,6 +258,11 @@
           <url>file://$PROJECT_DIR$/Easy/hackerrank/java/ArrayList1.java</url>
           <line>34</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Easy/hackerrank/java/List1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

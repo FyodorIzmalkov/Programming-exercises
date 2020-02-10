@@ -49,16 +49,16 @@ public class Sort1 {
             testCases--;
         }
 
-        for (Student st : studentList) {
-            System.out.println(st.getFname());
-        }
-
         Collections.sort(studentList, (o1, o2) ->
         {
             if (o1.getCgpa() == o2.getCgpa()){
                 return o1.getFname().compareTo(o2.getFname()) == 0 ? o1.getId() - o2.getId() : o1.getFname().compareTo(o2.getFname());
             }
-            return o1.getCgpa() > o2.getCgpa() ? 1 : -1;
+            return o1.getCgpa() > o2.getCgpa() ? -1 : 1;
         });
+
+        for (Student st : studentList) {
+            System.out.println(st.getFname());
+        }
     }
 }

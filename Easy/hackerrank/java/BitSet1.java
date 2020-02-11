@@ -35,18 +35,32 @@ public class BitSet1 {
                     break;
                 }
                 case "XOR": {
+                    if (firstOperand == 1){
+                        bitSet1.xor(bitSet2);
+                    } else {
+                        bitSet2.xor(bitSet1);
+                    }
                     break;
                 }
                 case "FLIP": {
+                    if (firstOperand == 1){
+                        bitSet1.set(secondOperand, !bitSet1.get(secondOperand));
+                    } else {
+                        bitSet2.set(secondOperand, !bitSet2.get(secondOperand));
+                    }
                     break;
                 }
                 case "SET": {
+                    if (firstOperand == 1){
+                        bitSet1.set(secondOperand, true);
+                    } else {
+                        bitSet2.set(secondOperand, true);
+                    }
                     break;
                 }
             }
-
+            System.out.println(bitSet1.cardinality() + " " + bitSet2.cardinality());
         }
-
 
     }
 }

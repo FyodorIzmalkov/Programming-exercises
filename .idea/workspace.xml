@@ -3,45 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Conditionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/Deviation.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Deviation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/Interquartile.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Interquartile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/MyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/Quartiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Quartiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Array1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Array2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Array3.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Array3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/ArrayList1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/BigDecimal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/BigDecimal1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/BigInteger1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/BigInteger1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/BitSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/BitSet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Comparator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Comparator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/CurrencyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/DateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/DateAndTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Deque1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Deque1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Generics1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Generics1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/HashSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/HashSet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/List1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/List1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Map1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Map1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/ParserTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/ParserTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/PrimalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/PrimalityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/RegexTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/RegexTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/RegexTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/RegexTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/RegexTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/RegexTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Sort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Sort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/Stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Stack1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/StringTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/StringTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/StringTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/StringTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/StringTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/StringTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/StringTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/StringTask4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/StringTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/StringTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/StringTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/StringTask6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/StringTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/StringTask7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/SubArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/SubArray1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/hackerrank/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Interface1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +60,7 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inheritance2">
+  <component name="RunManager" selected="Application.TryCatch1">
     <configuration name="Deque1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.java.Deque1" />
       <module name="Codeforces" />
@@ -145,26 +107,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.java.Stack1" />
+    <configuration name="TryCatch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatch1" />
       <module name="Codeforces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatch1" />
         <item itemvalue="Application.Inheritance2" />
         <item itemvalue="Application.Inheritance1" />
         <item itemvalue="Application.Deque1" />
         <item itemvalue="Application.Sort1" />
-        <item itemvalue="Application.Stack1" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +177,8 @@
       <workItem from="1581016310476" duration="6672000" />
       <workItem from="1581364700592" duration="4480000" />
       <workItem from="1581449398526" duration="5435000" />
-      <workItem from="1581533673306" duration="3073000" />
+      <workItem from="1581533673306" duration="4021000" />
+      <workItem from="1581623585264" duration="2716000" />
     </task>
     <servers />
   </component>
@@ -237,22 +194,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="436" y="364" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.984@0.0.1280.984" timestamp="1581539726558" />
-    <state width="1237" height="262" key="GridCell.Tab.0.bottom" timestamp="1581540017597">
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom" timestamp="1581626674200">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1581540017597" />
-    <state width="1237" height="262" key="GridCell.Tab.0.center" timestamp="1581540017597">
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1581626674200" />
+    <state width="1237" height="262" key="GridCell.Tab.0.center" timestamp="1581626674200">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1581540017597" />
-    <state width="1237" height="262" key="GridCell.Tab.0.left" timestamp="1581540017597">
+    <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1581626674200" />
+    <state width="1237" height="262" key="GridCell.Tab.0.left" timestamp="1581626674200">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1581540017597" />
-    <state width="1237" height="262" key="GridCell.Tab.0.right" timestamp="1581540017597">
+    <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1581626674200" />
+    <state width="1237" height="262" key="GridCell.Tab.0.right" timestamp="1581626674200">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1581540017597" />
+    <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1581626674200" />
     <state width="1237" height="368" key="GridCell.Tab.1.bottom" timestamp="1581454845434">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -273,10 +230,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="135" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1581539571474" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581534412982">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581625229065">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1581534412982" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1581625229065" />
     <state x="22" y="113" key="new project wizard" timestamp="1581536206654">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/example/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +164,8 @@
       <workItem from="1583348474668" duration="4595000" />
       <workItem from="1583434279102" duration="1890000" />
       <workItem from="1584425836880" duration="591000" />
-      <workItem from="1584647249301" duration="4021000" />
+      <workItem from="1584647249301" duration="4653000" />
+      <workItem from="1584687073861" duration="207000" />
     </task>
     <servers />
   </component>
@@ -218,10 +217,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="135" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1583434440284" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584647253476">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584687077684">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584647253476" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584687077684" />
     <state x="22" y="113" key="new project wizard" timestamp="1581536206654">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

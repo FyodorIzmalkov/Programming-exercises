@@ -42,7 +42,5 @@ public class QuickUnionUF {
             id[j] = i;
             sz[i] += sz[j];
         }
-
-        id[i] = j;
     }
 }

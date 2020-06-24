@@ -6,7 +6,33 @@ import java.util.stream.Stream;
 
 public class Main {
     public static void main(String[] args) {
+        Jopa jopa = new Jopa();
+        Jopa jopa1 = jopa.clone();
+        System.out.println(jopa);
+        System.out.println(jopa1);
+        System.out.println(jopa == jopa1);
+    }
+}
 
+class Jopa implements Cloneable{
+    private int num = 10;
+    private double aDouble = 15.0f;
+
+    @Override
+    public Jopa clone(){
+        try{
+            return (Jopa) super.clone();
+        } catch (CloneNotSupportedException e){
+            throw new AssertionError();
+        }
+    }
+
+    @Override
+    public String toString() {
+        return "Jopa{" +
+                "num=" + num +
+                ", aDouble=" + aDouble +
+                '}';
     }
 }
 

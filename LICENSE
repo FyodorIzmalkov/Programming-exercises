@@ -667,8 +667,8 @@ For more information on this, and how to apply and follow the GNU GPL, see
 <https://www.gnu.org/licenses/>.
 
   The GNU General Public License does not permit incorporating your program
-into proprietary programs.  If your program is a subroutine DifficultyBelow700.library, you
+into proprietary programs.  If your program is a subroutine codeforces.difficultyBelow700.library, you
 may consider it more useful to permit linking proprietary applications with
-the DifficultyBelow700.library.  If this is what you want to do, use the GNU Lesser General
+the codeforces.difficultyBelow700.library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.

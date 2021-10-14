@@ -2,148 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/GraphMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/BestTimeToBuyAnsSellStockII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/CF1095A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/CF1095A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1003A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1003A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1005A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1005A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1006A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1006A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1015A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1015A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1017A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1017A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1064A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1064A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1077a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1077a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1080A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1080A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1092B.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1092B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1093A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1093A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1136A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1136A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1139A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1139A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1167A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1167A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf1196A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf1196A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf136A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf136A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf200B.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf200B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf263A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf263A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf344A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf344A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf431a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf431a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf509a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf509a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf581A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf581A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf617A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf617A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf677A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf677A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf703a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf703a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf711a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf711a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf721A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf721A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf734A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf734A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf749a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf749a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf758a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf758a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf835A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf835A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Difficulty700/Cf978B.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficulty700/Cf978B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/A1030.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/A1030.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/A4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/A977.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/A977.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/CF1097A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/CF1097A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/CF705A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/CF705A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/CF785A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/CF785A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/CF791A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/CF791A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/CF935A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/CF935A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Cf1146A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Cf1146A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Cf1154A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Cf1154A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Cf1186a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Cf1186a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Cf1220A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Cf1220A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Cf867A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Cf867A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Cf959A.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Cf959A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Cf996a.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Cf996a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Error.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/GraphMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Meetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Meetings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Mobilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Mobilization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Mult.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Mult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Teams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/WayToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/WayToZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/library.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/codeforces/difficultyBelow700/library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/DifficultyBelow700/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/defangIPaddr.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/defangIPaddr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/flipAndInvertImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/flipAndInvertImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/numJewelsInStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/numJewelsInStones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/rangeSumBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/rangeSumBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/removeOuterParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/removeOuterParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/sortArrayByParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/sortArrayByParity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/toLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/toLowerCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/LeetCodeEz/uniqueMorseRepresentations.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/unsorted/uniqueMorseRepresentations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/cron/timers/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/cron/timers/MyTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/example/MyProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/example/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/princeton/alghoritms/first/unionfind/percolation/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/princeton/alghoritms/first/unionfind/percolation/Percolation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/princeton/alghoritms/first/unionfind/percolation/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/princeton/alghoritms/first/unionfind/percolation/PercolationStats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/AbstractClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/AbstractClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Access1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Access1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Annotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Annotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Array1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Array2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Array3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Array3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/ArrayList1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/BigDecimal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/BigDecimal1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/BigInteger1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/BigInteger1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/BitSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/BitSet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Comparator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Comparator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Conditionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Covariant1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Covariant1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/CurrencyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/DateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/DateAndTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Deque1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Deque1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Deviation.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Deviation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Exception1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/FactoryPattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/FactoryPattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Generics1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Generics1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/HashSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/HashSet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Inheritance1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Inheritance1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Inheritance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Inheritance2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Instanceof1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Instanceof1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Interface1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Interquartile.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Interquartile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Iterator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Iterator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/JavaVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/JavaVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Lambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/List1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/List1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Map1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Map1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Mdfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Mdfive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/MyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Override2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Override2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Overriding1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Overriding1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/ParserTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/ParserTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/PrimalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/PrimalityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/PrimeChecker1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/PrimeChecker1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/PriorityQueue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/PriorityQueue1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Quartiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Quartiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Reflection1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Reflection1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/RegexTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/RegexTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/RegexTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/RegexTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/RegexTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/RegexTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Shatwohundredsfiftysix.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Shatwohundredsfiftysix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Sort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Sort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/Stack1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/StringTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/StringTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/StringTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/StringTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/StringTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/StringTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/StringTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/StringTask4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/StringTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/StringTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/StringTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/StringTask6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/StringTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/StringTask7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/SubArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/SubArray1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/TryCatch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/TryCatch1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/VarArgs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hackerrank/unsorted/VarArgs1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +66,20 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArray">
+  <component name="RunManager" selected="Application.BestTimeToBuyAnsSellStockII">
+    <configuration name="BestTimeToBuyAnsSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.BestTimeToBuyAnsSellStockII" />
+      <module name="Codeforces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.topinterview.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstExc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="princeton.alghoritms.first.unionfind.exercises.FirstExc" />
       <module name="Codeforces" />
@@ -216,13 +89,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1" />
-      <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -279,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BestTimeToBuyAnsSellStockII" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.ThirdExc" />
         <item itemvalue="Application.SecondExc" />
         <item itemvalue="Application.FirstExc" />
-        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +222,7 @@
       <workItem from="1592465190185" duration="1954000" />
       <workItem from="1593028184159" duration="3700000" />
       <workItem from="1593105973528" duration="7479000" />
-      <workItem from="1634243891759" duration="2813000" />
+      <workItem from="1634243891759" duration="4211000" />
     </task>
     <servers />
   </component>
@@ -372,22 +238,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1076" y="581" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1400@0.0.2560.1400" timestamp="1634244005609" />
-    <state width="2517" height="399" key="GridCell.Tab.0.bottom" timestamp="1634246413487">
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom" timestamp="1634247044639">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1634246413487" />
-    <state width="2517" height="399" key="GridCell.Tab.0.center" timestamp="1634246413487">
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044639" />
+    <state width="2517" height="399" key="GridCell.Tab.0.center" timestamp="1634247044638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1634246413487" />
-    <state width="2517" height="399" key="GridCell.Tab.0.left" timestamp="1634246413487">
+    <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044638" />
+    <state width="2517" height="399" key="GridCell.Tab.0.left" timestamp="1634247044638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1634246413487" />
-    <state width="2517" height="399" key="GridCell.Tab.0.right" timestamp="1634246413487">
+    <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044638" />
+    <state width="2517" height="399" key="GridCell.Tab.0.right" timestamp="1634247044639">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1634246413487" />
+    <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044639" />
     <state x="760" y="274" key="SettingsEditor" timestamp="1634243980857">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

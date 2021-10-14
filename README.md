@@ -1,2 +1,2 @@
-# Codeforces
-My solutions for codeforces tasks
+# Programming tasks
+Solutions for different programming tasks

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/BestTimeToBuyAnsSellStockII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/RotateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -66,7 +68,18 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BestTimeToBuyAnsSellStockII">
+  <component name="RunManager" selected="Application.RotateArray">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BestTimeToBuyAnsSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.BestTimeToBuyAnsSellStockII" />
       <module name="Codeforces" />
@@ -80,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstExc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="princeton.alghoritms.first.unionfind.exercises.FirstExc" />
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.RemoveDuplicatesFromSortedArray" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="princeton.alghoritms.first.unionfind.exercises.*" />
+          <option name="PATTERN" value="leetcode.topinterview.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.RemoveDuplicatesFromSortedArray" />
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.RotateArray" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -132,24 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.BestTimeToBuyAnsSellStockII" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.ThirdExc" />
         <item itemvalue="Application.SecondExc" />
-        <item itemvalue="Application.FirstExc" />
       </list>
     </recent_temporary>
   </component>
@@ -222,42 +224,23 @@
       <workItem from="1592465190185" duration="1954000" />
       <workItem from="1593028184159" duration="3700000" />
       <workItem from="1593105973528" duration="7479000" />
-      <workItem from="1634243891759" duration="4211000" />
+      <workItem from="1634243891759" duration="4345000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="945" y="624" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1634244002581">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="945" y="624" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1634244002581" />
-    <state x="1076" y="581" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1634244005609">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1076" y="581" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1400@0.0.2560.1400" timestamp="1634244005609" />
-    <state width="2517" height="399" key="GridCell.Tab.0.bottom" timestamp="1634247044639">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044639" />
-    <state width="2517" height="399" key="GridCell.Tab.0.center" timestamp="1634247044638">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044638" />
-    <state width="2517" height="399" key="GridCell.Tab.0.left" timestamp="1634247044638">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044638" />
-    <state width="2517" height="399" key="GridCell.Tab.0.right" timestamp="1634247044639">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1634247044639" />
-    <state x="760" y="274" key="SettingsEditor" timestamp="1634243980857">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1634243980857" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

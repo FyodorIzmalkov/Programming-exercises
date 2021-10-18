@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/SingleNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/leetcode/topinterview/array/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/ContainsDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicate">
+  <component name="RunManager" selected="Application.SingleNumber">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.RemoveDuplicatesFromSortedArray" />
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.RotateArray" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.RotateArray" />
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.SingleNumber" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.BestTimeToBuyAnsSellStockII" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
       </list>
     </recent_temporary>
   </component>

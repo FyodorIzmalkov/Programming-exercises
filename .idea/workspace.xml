@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/IntersectionOfTwoArrays2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleNumber">
+  <component name="RunManager" selected="Application.IntersectionOfTwoArrays2">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BestTimeToBuyAnsSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.BestTimeToBuyAnsSellStockII" />
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.ContainsDuplicate" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.ContainsDuplicate" />
+    <configuration name="IntersectionOfTwoArrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.IntersectionOfTwoArrays2" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntersectionOfTwoArrays2" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.BestTimeToBuyAnsSellStockII" />
       </list>
     </recent_temporary>
   </component>

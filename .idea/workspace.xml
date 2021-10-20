@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/IntersectionOfTwoArrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/PlusOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,16 +21,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>equals</find>
-      <find>Bucket</find>
-      <find>hashcode</find>
-      <find>HashCOde</find>
-      <find>index</find>
-      <find>//</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,18 +58,7 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntersectionOfTwoArrays2">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PlusOne">
     <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.ContainsDuplicate" />
       <module name="Codeforces" />
@@ -106,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.RotateArray" />
+    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.PlusOne" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -145,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntersectionOfTwoArrays2" />
+        <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.IntersectionOfTwoArrays2" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.RotateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +217,7 @@
       <workItem from="1593028184159" duration="3700000" />
       <workItem from="1593105973528" duration="7479000" />
       <workItem from="1634243891759" duration="4345000" />
+      <workItem from="1634740637509" duration="2796000" />
     </task>
     <servers />
   </component>
@@ -242,6 +235,40 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom" timestamp="1634761170263">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170263" />
+    <state width="2517" height="491" key="GridCell.Tab.0.center" timestamp="1634761170263">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170263" />
+    <state width="2517" height="491" key="GridCell.Tab.0.left" timestamp="1634761170263">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170263" />
+    <state width="2517" height="491" key="GridCell.Tab.0.right" timestamp="1634761170263">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170263" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom" timestamp="1634761170340">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170340" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center" timestamp="1634761170340">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170340" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left" timestamp="1634761170340">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170340" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right" timestamp="1634761170340">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1634761170340" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,6 +367,26 @@
           <url>file://$PROJECT_DIR$/com/princeton/alghoritms/first/unionfind/exercises/ThirdExc.java</url>
           <line>22</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/PlusOne.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/PlusOne.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/PlusOne.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/PlusOne.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

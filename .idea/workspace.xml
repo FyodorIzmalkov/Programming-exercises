@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/ValidSudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/leetcode/topinterview/array/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/ValidSudoku.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.ValidSudoku">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -137,9 +137,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidSudoku" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.ValidSudoku" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Test" />
       </list>
@@ -357,6 +357,16 @@
           <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/MoveZeroes.java</url>
           <line>34</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/ValidSudoku.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/ValidSudoku.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

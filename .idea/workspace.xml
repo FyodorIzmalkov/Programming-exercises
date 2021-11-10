@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/strings/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/strings/StringToInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidPalindrome">
+  <component name="RunManager" selected="Application.StringToInteger">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.ReverseInteger" />
+    <configuration name="StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.StringToInteger" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringToInteger" />
         <item itemvalue="Application.ValidPalindrome" />
         <item itemvalue="Application.ValidAnagram" />
         <item itemvalue="Application.FirstUniqueCharacter" />
         <item itemvalue="Application.Check1" />
-        <item itemvalue="Application.ReverseInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +367,11 @@
           <url>file://$PROJECT_DIR$/com/leetcode/topinterview/array/ValidSudoku.java</url>
           <line>124</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/leetcode/topinterview/strings/StringToInteger.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

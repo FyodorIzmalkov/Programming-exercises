@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/strings/StrStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/cracking/algs/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/strings/CountAndSay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +26,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="JupyterTrust" id="91560ff9-aadd-4eee-8842-db609b174cbc" />
   <component name="ProjectId" id="1VX1qukCkhx9Rfwuvu8ayhDexDY" />
@@ -58,24 +68,26 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StrStr">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.FirstUniqueCharacter" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cracking.algs.QuickSort" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.topinterview.strings.*" />
+          <option name="PATTERN" value="cracking.algs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.ValidAnagram" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.array.Test" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.topinterview.strings.*" />
+          <option name="PATTERN" value="leetcode.topinterview.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.ValidPalindrome" />
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.test1" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.StrStr" />
         <item itemvalue="Application.StringToInteger" />
-        <item itemvalue="Application.ValidPalindrome" />
-        <item itemvalue="Application.ValidAnagram" />
-        <item itemvalue="Application.FirstUniqueCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +229,9 @@
       <workItem from="1634243891759" duration="4345000" />
       <workItem from="1634740637509" duration="5418000" />
       <workItem from="1634803058189" duration="9283000" />
+      <workItem from="1640607217569" duration="6850000" />
+      <workItem from="1644869142602" duration="7825000" />
+      <workItem from="1645739943231" duration="3181000" />
     </task>
     <servers />
   </component>

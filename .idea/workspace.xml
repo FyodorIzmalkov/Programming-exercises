@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd0044b-05cb-4223-a1e5-651ec7b5ea58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/cracking/algs/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/array/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/leetcode/topinterview/strings/CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/cracking/algs/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +66,7 @@
       <recent name="C:\Users\Федор\IdeaProjects\Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -78,6 +76,19 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cracking.algs.InsertionSort" />
+      <module name="Codeforces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cracking.algs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,25 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.StrStr" />
+    <configuration name="QuickSortTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cracking.algs.QuickSortTest2" />
       <module name="Codeforces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.topinterview.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.topinterview.strings.StringToInteger" />
-      <module name="Codeforces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.topinterview.strings.*" />
+          <option name="PATTERN" value="cracking.algs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.QuickSortTest2" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.StrStr" />
-        <item itemvalue="Application.StringToInteger" />
       </list>
     </recent_temporary>
   </component>

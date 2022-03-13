@@ -1,4 +1,4 @@
-package cracking.algs;
+package sort.algs;
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
